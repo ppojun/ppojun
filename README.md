@@ -1,4 +1,4 @@
-<img src="https://blog.kakaocdn.net/dn/bRbGL5/btrA5ra3exp/TaPgqsFNcv6pPT2KW0o3Pk/img.gif">
+![img](https://blog.kakaocdn.net/dn/bRbGL5/btrA5ra3exp/TaPgqsFNcv6pPT2KW0o3Pk/img.gif)
 
 <!--
 **ppojun/ppojun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
